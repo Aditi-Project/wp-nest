@@ -1,0 +1,126 @@
+
+---Downloaded files---
+The import files for: Nest Demo (Home 1 , 2 , 3 & Innerpages) were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wp-nest
+Data file = C:\xampp\htdocs\wp-nest/wp-content/themes/steelthemes-nest/includes/Demo_content/demo-content-1/democontent.xml
+Widget file = C:\xampp\htdocs\wp-nest/wp-content/themes/steelthemes-nest/includes/Demo_content/demo-content-1/widgets.wie
+Customizer file = not defined!
+Redux files:
+nest_theme_mod -> C:\xampp\htdocs\wp-nest/wp-content/themes/steelthemes-nest/includes/Demo_content/demo-content-1/redux.json 
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "slider-4-min" (Media)
+[ERROR] Failed to import "slider-5-min" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Page Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Products list - Trending Now - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Shop Sidebar : 
+
+Block - No Title - Imported
+Nest Product Category Filter V1 - Product Categories - Imported
+Nest Brand Filter V1 - Brands - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Filter Sidebar : 
+
+Block - No Title - Imported
+Nest Product Category Filter V1 - Product Categories - Imported
+Nest Brand Filter V1 - Brands - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Product Detail Sidebar : 
+
+Nest - Product Banner  -  Save 17% &lt;br&gt;
+ on &lt;span class=&quot;text-brand&quot;&gt;Oganic&lt;/span&gt;&lt;br&gt;
+Juice
+ - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Products list - Products - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: nest_theme_mod finished successfully!
+
+---ocdi/after_import---
+

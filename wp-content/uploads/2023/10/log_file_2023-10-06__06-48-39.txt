@@ -1,0 +1,95 @@
+
+---Downloaded files---
+The import files for: Nest Demo (Home 4 , 5 , 6) were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wp-nest
+Data file = C:\xampp\htdocs\wp-nest/wp-content/themes/steelthemes-nest/includes/Demo_content/demo-content-2/demo-content-2.xml
+Widget file = C:\xampp\htdocs\wp-nest/wp-content/themes/steelthemes-nest/includes/Demo_content/demo-content-2/widget-2.wie
+Customizer file = not defined!
+Redux files:
+nest_theme_mod -> C:\xampp\htdocs\wp-nest/wp-content/themes/steelthemes-nest/includes/Demo_content/demo-content-2/redux-2.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Page Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Imported
+Products list - Trending Now - Widget already exists
+Block - No Title - Imported
+
+Shop Sidebar : 
+
+Block - No Title - Widget already exists
+Nest Product Category Filter V1 - Product Categories - Widget already exists
+Nest Brand Filter V1 - Brands - Widget already exists
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Filter Sidebar : 
+
+Block - No Title - Imported
+Nest Brand Filter V1 - Brands - Widget already exists
+Nest Product Category Filter V1 - Product Categoties - Imported
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Imported
+Block - No Title - Imported
+
+Product Detail Sidebar : 
+
+Nest - Product Banner  -  Save 17% &lt;br&gt;
+ on &lt;span class=&quot;text-brand&quot;&gt;Oganic&lt;/span&gt;&lt;br&gt;
+Juice
+ - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Products list - Products - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: nest_theme_mod finished successfully!
+
+---ocdi/after_import---
+

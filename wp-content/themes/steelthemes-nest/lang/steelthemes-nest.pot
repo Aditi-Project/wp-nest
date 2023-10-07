@@ -1,0 +1,3082 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-07-30 21:53+0530\n"
+"PO-Revision-Date: 2023-07-30 21:54+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html;esc_html__;esc_html_e;esc_html_x;"
+"esc_attr;esc_attr__;esc_attr_e;esc_attr_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:30
+msgid "Oops! Why you’re here?"
+msgstr ""
+
+#: 404.php:33
+msgid ""
+"We are very sorry for inconvenience. It looks like you’re try to access a "
+"page that either has been deleted or never existed."
+msgstr ""
+
+#: 404.php:40
+msgid "Back to home"
+msgstr ""
+
+#: comments.php:20
+msgid "Post  comment"
+msgstr ""
+
+#: comments.php:21
+msgid "Post a comment"
+msgstr ""
+
+#: comments.php:22
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:23
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:23
+msgid "Write your comment here..."
+msgstr ""
+
+#: comments.php:33
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:34 template-parts/blog-functions.php:24
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:35 template-parts/blog-functions.php:25
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:36 template-parts/blog-functions.php:26
+msgid "Comments are Closed"
+msgstr ""
+
+#: comments.php:44 comments.php:75
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:49 comments.php:79
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:52 comments.php:82
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:92
+msgid "Comments are closed."
+msgstr ""
+
+#: dokan/dashboard/big-counter-widget.php:17
+msgid "Sales"
+msgstr ""
+
+#: dokan/dashboard/big-counter-widget.php:21
+#: dokan/products/products-listing.php:117
+msgid "Earning"
+msgstr ""
+
+#: dokan/dashboard/big-counter-widget.php:25
+msgid "Pageview"
+msgstr ""
+
+#: dokan/dashboard/big-counter-widget.php:29
+msgid "Order"
+msgstr ""
+
+#: dokan/dashboard/edit-account.php:57
+msgid "Edit Account Details"
+msgstr ""
+
+#: dokan/dashboard/edit-account.php:64
+msgid "First name"
+msgstr ""
+
+#: dokan/dashboard/edit-account.php:69
+msgid "Last name"
+msgstr ""
+
+#: dokan/dashboard/edit-account.php:75 includes/functions/extra/comments.php:75
+#: woocommerce/myaccount/form-login.php:86
+msgid "Email address"
+msgstr ""
+
+#: dokan/dashboard/edit-account.php:80
+msgid "Password Change"
+msgstr ""
+
+#: dokan/dashboard/edit-account.php:83
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: dokan/dashboard/edit-account.php:88
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: dokan/dashboard/edit-account.php:93
+msgid "Confirm New Password"
+msgstr ""
+
+#: dokan/dashboard/edit-account.php:104
+msgid "Save changes"
+msgstr ""
+
+#: dokan/dashboard/orders-widget.php:15
+msgid "Orders"
+msgstr ""
+
+#: dokan/dashboard/orders-widget.php:21 dokan/dashboard/products-widget.php:26
+#: woocommerce/checkout/review-order.php:108
+msgid "Total"
+msgstr ""
+
+#: dokan/dashboard/orders-widget.php:26
+msgid "Completed"
+msgstr ""
+
+#: dokan/dashboard/orders-widget.php:31
+msgid "Pending"
+msgstr ""
+
+#: dokan/dashboard/orders-widget.php:36
+msgid "Processing"
+msgstr ""
+
+#: dokan/dashboard/orders-widget.php:41
+msgid "Cancelled"
+msgstr ""
+
+#: dokan/dashboard/orders-widget.php:46
+msgid "Refunded"
+msgstr ""
+
+#: dokan/dashboard/orders-widget.php:51
+msgid "On hold"
+msgstr ""
+
+#: dokan/dashboard/products-widget.php:16
+#: includes/options/theme-options/breadcrumb-settings.php:19
+msgid "Products"
+msgstr ""
+
+#: dokan/dashboard/products-widget.php:19
+msgid "+ Add new product"
+msgstr ""
+
+#: dokan/dashboard/products-widget.php:31
+msgid "Live"
+msgstr ""
+
+#: dokan/dashboard/products-widget.php:36
+msgid "Offline"
+msgstr ""
+
+#: dokan/dashboard/products-widget.php:41
+msgid "Pending Review"
+msgstr ""
+
+#: dokan/dashboard/sales-chart-widget.php:15
+msgid "Sales this Month"
+msgstr ""
+
+#: dokan/products/products-listing.php:67
+#: dokan/products/products-listing.php:263
+msgid "Add new product"
+msgstr ""
+
+#: dokan/products/products-listing.php:88
+msgid "Select bulk action"
+msgstr ""
+
+#: dokan/products/products-listing.php:99
+msgid "Apply"
+msgstr ""
+
+#: dokan/products/products-listing.php:108
+msgid "Image"
+msgstr ""
+
+#: dokan/products/products-listing.php:109
+msgid "Name"
+msgstr ""
+
+#: dokan/products/products-listing.php:110
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: dokan/products/products-listing.php:114
+msgid "SKU"
+msgstr ""
+
+#: dokan/products/products-listing.php:115
+msgid "Stock"
+msgstr ""
+
+#: dokan/products/products-listing.php:116
+msgid "Price"
+msgstr ""
+
+#: dokan/products/products-listing.php:117
+msgid ""
+"Earning could be greater than or less than the calculated value based on "
+"different criteria like tax and shipping fee receiver"
+msgstr ""
+
+#: dokan/products/products-listing.php:118
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: dokan/products/products-listing.php:119
+msgid "Views"
+msgstr ""
+
+#: dokan/products/products-listing.php:120
+msgid "Date"
+msgstr ""
+
+#: dokan/products/products-listing.php:129
+msgid "Simple"
+msgstr ""
+
+#: dokan/products/products-listing.php:212
+msgid "No product found"
+msgstr ""
+
+#: dokan/products/products-listing.php:235
+msgid "&laquo; Previous"
+msgstr ""
+
+#: dokan/products/products-listing.php:236
+msgid "Next &raquo;"
+msgstr ""
+
+#: dokan/products/products-listing.php:251
+msgid "No Products Found!"
+msgstr ""
+
+#: dokan/products/products-listing.php:256
+msgid "Ready to start selling something awesome?"
+msgstr ""
+
+#: dokan/store-header.php:13
+msgid "Store Open"
+msgstr ""
+
+#: dokan/store-header.php:14
+msgid "Store Closed"
+msgstr ""
+
+#: dokan/store-lists-filter.php:37
+msgid "Search Vendors"
+msgstr ""
+
+#: dokan/store-lists-filter.php:81 dokan/store-lists-filter.php:83
+msgid "Sort by"
+msgstr ""
+
+#: dokan/store-lists-loop.php:37
+msgid "Featured"
+msgstr ""
+
+#: dokan/store-lists-loop.php:45
+msgid "default-store-banner"
+msgstr ""
+
+#: dokan/store-lists-loop.php:51
+msgid "Store is Open"
+msgstr ""
+
+#: dokan/store-lists-loop.php:51
+msgid "Open"
+msgstr ""
+
+#: dokan/store-lists-loop.php:53
+msgid "Store is Closed"
+msgstr ""
+
+#: dokan/store-lists-loop.php:53
+msgid "Closed"
+msgstr ""
+
+#: dokan/store-lists-loop.php:61
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: dokan/store-lists-loop.php:66
+#, php-format
+msgid "%s out of 5"
+msgstr ""
+
+#: dokan/store-lists-loop.php:80
+msgid "Address : "
+msgstr ""
+
+#: dokan/store-lists-loop.php:85
+msgid "Call Us : "
+msgstr ""
+
+#: dokan/store-lists-loop.php:94 dokan/store-lists-loop.php:95
+msgid "Visit Store"
+msgstr ""
+
+#: dokan/store-lists-loop.php:121
+msgid "&larr;"
+msgstr ""
+
+#: dokan/store-lists-loop.php:122
+msgid "&rarr;"
+msgstr ""
+
+#: dokan/store-lists-loop.php:148
+msgid "No vendor found!"
+msgstr ""
+
+#: dokan/store.php:59
+msgid "No products were found of this vendor!"
+msgstr ""
+
+#: includes/Demo_content/Demo_content.php:22
+#: includes/Demo_content/Demo_content.php:36
+#: includes/Demo_content/Demo_content.php:50
+msgid "Please keep patients while importing sample data."
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:83
+msgid "Welcome / Theme Activation"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:87
+msgid "Plugins"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:92
+msgid "Import Demo Content"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:99
+msgid "Create Header"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:103
+msgid "Create Footer"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:107
+msgid "Create Megamenu"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:111
+#: includes/options/config.php:32 includes/options/config.php:33
+msgid "Theme Options"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:116
+msgid "Our Themes"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:123
+#: includes/admin/dashboard/class-dashboard.php:125
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:218
+msgid "Warning Disable WP_DEBUG_DISPLAY"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:219
+msgid ""
+"Debug mode is often enabled to gather more details about an error or site "
+"failure, but may contain sensitive information which \n"
+"                    should not be available on a publicly available website."
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:221
+msgid ""
+"The value, WP_DEBUG_DISPLAY, has either been enabled by WP_DEBUG or added to "
+"your configuration file. This will\n"
+"                    make errors display on the front end of your site."
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:236
+msgid "Before Import Demo Content Check the server configuration here"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:236
+msgid "Click here..."
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:237
+msgid "We are here to help you.For any issues please submit your ticket here"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:237
+msgid "Get Support"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:238
+msgid "Looking for Nest Documentation"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:238
+msgid "Click here"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:240
+msgid "Important Notice please read this one:"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:241
+msgid "1 - Do not reset or delete the theme without deactivating it."
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:242
+msgid ""
+"2 - To migrate the site from one domain to another, use a migration plugin "
+"such as Duplicator or All-in-One Migration, or any plugin you prefer."
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:243
+msgid ""
+"3 - After migration, deactivate the theme from old domainor form localhost, "
+"and once migration is completed on the new domain, activate the theme again "
+"by using purchase code."
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:244
+msgid "If you got a message like this -> The purchase code is already used ->"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:246
+msgid "Contact the support. Our support team will help you immediately"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:249
+msgid ""
+"Disable this notification totally go to Nest -> theme option ->  general "
+"settings ->  Disable Admin Notice => Switch Off"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:260
+msgid "Activate Nest theme with purchase code and enjoy all features."
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:262
+msgid " 1) Dowload purchase code form envato and copy the purchase code."
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:264
+msgid "2) Then Go to Nest -> Welcome"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:264
+msgid "or Click here"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:264
+msgid "-> Enter the purchase and activate theme."
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:265
+msgid "3) To downlaod pruchase code please follow this"
+msgstr ""
+
+#: includes/admin/dashboard/class-dashboard.php:265
+msgid "Download Purchase code here"
+msgstr ""
+
+#: includes/admin/dashboard/ourthemes/outthemes.php:15
+msgid "Our Recent Themes"
+msgstr ""
+
+#: includes/admin/dashboard/ourthemes/outthemes.php:32
+msgid "Vankine - Insurance & Consulting Business WordPress Theme"
+msgstr ""
+
+#: includes/admin/dashboard/ourthemes/outthemes.php:37
+#: includes/admin/dashboard/ourthemes/outthemes.php:62
+#: includes/admin/dashboard/ourthemes/outthemes.php:89
+#: includes/admin/dashboard/ourthemes/outthemes.php:114
+msgid "Purchase Now"
+msgstr ""
+
+#: includes/admin/dashboard/ourthemes/outthemes.php:57
+msgid "CopyGen - AI Writer & Copywriting Landing Page WordPress Theme"
+msgstr ""
+
+#: includes/admin/dashboard/ourthemes/outthemes.php:84
+msgid "Lawnella - Gardening & Landscaping WordPress Theme"
+msgstr ""
+
+#: includes/admin/dashboard/ourthemes/outthemes.php:109
+msgid "Creote - Corporate & Consulting Business WordPress Theme"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:334
+#: includes/admin/dashboard/pluigns/list-plugins.php:123
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:335
+#: includes/admin/dashboard/pluigns/list-plugins.php:124
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:337
+#: includes/admin/dashboard/pluigns/list-plugins.php:125
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:340
+#: includes/admin/dashboard/pluigns/list-plugins.php:126
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:392
+#: includes/admin/dashboard/pluigns/list-plugins.php:137
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:393
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:912
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2618
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:394
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:3244
+#: includes/admin/dashboard/pluigns/list-plugins.php:138
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:1019
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:1206
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:3033
+msgid "and"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2400
+#: includes/admin/dashboard/welcome/welcome.php:373
+msgid "Not Installed"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/list-plugins.php:15
+msgid "Elementor"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/list-plugins.php:22
+msgid "Nest Addons"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/list-plugins.php:30
+msgid "Woocommerce"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/list-plugins.php:37
+msgid "HubSpot All-In-One Marketing - Forms, Popups, Live Chat"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/list-plugins.php:44
+msgid "Fiboo Ajax Search"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/list-plugins.php:52
+msgid "WPC Smart Compare for WooCommerce"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/list-plugins.php:59
+msgid "WPC Smart Wishlist for WooCommerce"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/list-plugins.php:67
+msgid "WPC Frequently Bought Together for WooCommerce"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/list-plugins.php:75
+msgid "Variation Swatches"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/list-plugins.php:82
+msgid "Contact Form 7"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/list-plugins.php:90
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/list-plugins.php:98
+msgid "One Click Demo Import"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/list-plugins.php:105
+msgid "Revslider"
+msgstr ""
+
+#: includes/admin/dashboard/pluigns/list-plugins.php:139
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/start.php:331
+msgid "Activate your Theme here"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/start.php:334
+msgid "Enter your purchase code:"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/start.php:338
+msgid "Activate Theme"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/start.php:341
+msgid "You can learn how to find your purchase key"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/start.php:341
+msgid "Click Here"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/start.php:354
+msgid "Purchase Code:"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/start.php:355
+msgid "Item Name:"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/start.php:356
+msgid "Domain Name:"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/start.php:357
+msgid "Customer Name:"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/start.php:358
+msgid "Bought Date:"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/start.php:359
+msgid "Supported Until:"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/start.php:362
+msgid "Do not reset or delete the theme without deactivating it."
+msgstr ""
+
+#: includes/admin/dashboard/welcome/start.php:363
+msgid ""
+"To migrate the site from one domain to another, use a migration plugin such "
+"as Duplicator or All-in-One Migration, or any plugin you prefer."
+msgstr ""
+
+#: includes/admin/dashboard/welcome/start.php:364
+msgid ""
+"After migration, deactivate the theme, and once migration is completed on "
+"the new domain, activate the theme again."
+msgstr ""
+
+#: includes/admin/dashboard/welcome/start.php:365
+msgid "If you received this message -> The purchase code is already used ->"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/start.php:365
+msgid "Contact support. Our team will help you immediately."
+msgstr ""
+
+#: includes/admin/dashboard/welcome/start.php:372
+msgid "Deactivate Theme"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:14
+msgid "Welcome to Nest  "
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:24
+msgid ""
+"Thank you for purchasing our Nest theme. Here you are able to \n"
+"                        start creating your awesome web Application by "
+"importing our dummy content and theme by options."
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:42
+msgid "System Information"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:50
+msgid "Your Php Version "
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:70
+msgid " is too old. Please upgrade to version 5.6 or higher"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:75
+msgid "Please contact Host provider to fix it."
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:83
+msgid " is up to date."
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:96
+msgid "MySQL Version"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:122
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:148
+#: includes/admin/dashboard/welcome/welcome.php:188
+#: includes/admin/dashboard/welcome/welcome.php:237
+#: includes/admin/dashboard/welcome/welcome.php:288
+msgid "looks good"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:153
+msgid "Increase Your Post Max Size greaten than 512"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:165
+msgid "Max Upload Size"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:199
+msgid "Increase Max Upload Size to 300 or 512 or maximum"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:210
+msgid "PHP Time Limit"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:227
+msgid "sec"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:233
+msgid " sec"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:247
+msgid ""
+"Your PHP time limit is too low. Please set it to at least 600 seconds to "
+"import demo content"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:258
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:299
+msgid "Note:"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:303
+msgid ""
+"Your current PHP Max Input Vars setting is too low. Please increase it to at "
+"least"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:311
+msgid " to avoid issues with your menu items."
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:322
+msgid "ZipArchive"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:334
+msgid "Yes"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:338
+msgid "No"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:345
+msgid "ZipArchive class is not available on your server."
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:355
+msgid "GD Library"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:385
+msgid "cURL"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:403
+msgid "Not Enabled"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:418
+msgid ""
+"Our documentation is simple  , With details and covers all the essential "
+"features from the beginning to the most advanced."
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:425
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:437
+msgid ""
+"Nest theme comes with 6 months of free support for every license you "
+"purchase. Support can be extended through subscriptions via ThemeForest."
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:444
+#: includes/options/theme-options/side-menu-settings.php:116
+#: includes/options/theme-options/side-menu-settings.php:117
+msgid "Support"
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:459
+msgid ""
+"Here is the Video Tutorials to install theme , pluign , import demo content "
+"and Get Start with it."
+msgstr ""
+
+#: includes/admin/dashboard/welcome/welcome.php:465
+msgid "Video Tutorials"
+msgstr ""
+
+#: includes/functions/extra/breadcrumbs.php:26
+#: includes/functions/extra/breadcrumbs.php:30
+#: includes/options/theme-options/mobile-menu-two.php:45
+msgid "Home"
+msgstr ""
+
+#: includes/functions/extra/breadcrumbs.php:38
+#: includes/functions/extra/breadcrumbs.php:162
+#: includes/lib/WP_Bootstrap_Navwalker.php:381
+#: woocommerce/myaccount/form-login.php:54
+#: woocommerce/myaccount/form-login.php:107
+msgid " "
+msgstr ""
+
+#: includes/functions/extra/breadcrumbs.php:43
+msgid "Search results for \""
+msgstr ""
+
+#: includes/functions/extra/breadcrumbs.php:127
+#: includes/functions/extra/breadcrumbs.php:138
+msgid "Please Enter Store Name"
+msgstr ""
+
+#: includes/functions/extra/breadcrumbs.php:166
+#: includes/functions/extra/breadcrumbs.php:171
+msgid "\""
+msgstr ""
+
+#: includes/functions/extra/breadcrumbs.php:174
+msgid "Error 404"
+msgstr ""
+
+#: includes/functions/extra/breadcrumbs.php:190
+msgid "Page"
+msgstr ""
+
+#: includes/functions/extra/comments.php:53
+msgid "Edit"
+msgstr ""
+
+#: includes/functions/extra/comments.php:71
+msgid "Website Url"
+msgstr ""
+
+#: includes/functions/extra/comments.php:72
+msgid "ex. www.example.com"
+msgstr ""
+
+#: includes/functions/extra/comments.php:76
+msgid "ex. john@mail.com"
+msgstr ""
+
+#: includes/functions/extra/comments.php:78
+msgid "Full Name"
+msgstr ""
+
+#: includes/functions/extra/comments.php:79
+msgid "ex. John Doe"
+msgstr ""
+
+#: includes/functions/extra/nav.php:84
+msgid "Previous Post"
+msgstr ""
+
+#: includes/functions/extra/nav.php:99
+msgid "Next Post"
+msgstr ""
+
+#: includes/functions/header-source.php:44
+msgid "Search Results"
+msgstr ""
+
+#: includes/functions/header-source.php:46
+msgid "Page Not Found"
+msgstr ""
+
+#: includes/functions/header-source.php:52
+msgid "The Latest Posts"
+msgstr ""
+
+#: includes/functions/header-source.php:73
+msgid "Service"
+msgstr ""
+
+#: includes/functions/header-source.php:80
+#: woocommerce/checkout/review-order.php:23
+msgid "Product"
+msgstr ""
+
+#: includes/functions/header-source.php:92
+msgid "Search..."
+msgstr ""
+
+#: includes/functions/header-source.php:108
+msgid ""
+"1) We added pruchase code verification system please activate theme by using "
+"purchase code."
+msgstr ""
+
+#: includes/functions/header-source.php:109
+msgid "2) Check theme version - 1.6.5 and nest addons pluign version is 1.4.8."
+msgstr ""
+
+#: includes/functions/header-source.php:110
+msgid ""
+"3) Then go to Nest --> Welcome -->  Enter the purchase code and click "
+"activate button."
+msgstr ""
+
+#: includes/functions/header-source.php:111
+msgid "4) Click here ->  To download pruchase code and to activate the theme."
+msgstr ""
+
+#: includes/functions/layout.php:70 includes/functions/layout.php:85
+msgid "bg_image"
+msgstr ""
+
+#: includes/functions/layout.php:155 includes/functions/layout.php:187
+msgid "no_column"
+msgstr ""
+
+#: includes/functions/layout.php:157
+msgid "col-lg-9 col-md-12 col-sm-12 col-xs-12"
+msgstr ""
+
+#: includes/functions/layout.php:167 includes/functions/layout.php:177
+#: includes/functions/layout.php:197 includes/functions/layout.php:207
+msgid "no_column no_sidebar"
+msgstr ""
+
+#: includes/functions/theme.php:79 includes/functions/theme.php:84
+#: woocommerce/global/quantity-input.php:53
+msgid "on"
+msgstr ""
+
+#: includes/functions/theme.php:150
+msgid "Primary Menu"
+msgstr ""
+
+#: includes/functions/theme.php:151
+msgid "Mobile Menu"
+msgstr ""
+
+#: includes/functions/theme.php:152
+msgid "Category Display on Mobile Menu"
+msgstr ""
+
+#: includes/functions/theme.php:162
+msgid "Blog Sidebar"
+msgstr ""
+
+#: includes/functions/theme.php:163
+msgid "Page Sidebar"
+msgstr ""
+
+#: includes/functions/theme.php:164
+msgid "Shop Sidebar"
+msgstr ""
+
+#: includes/functions/theme.php:165
+msgid "Filter Sidebar"
+msgstr ""
+
+#: includes/functions/theme.php:166
+msgid "Product Detail Sidebar"
+msgstr ""
+
+#: includes/functions/theme.php:175
+msgid "Add widgets here in order to display on pages"
+msgstr ""
+
+#: includes/options/config.php:143
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: includes/options/config.php:147
+msgid "<p></p>"
+msgstr ""
+
+#: includes/options/theme-options/404-settings.php:8
+msgid "404 Settings"
+msgstr ""
+
+#: includes/options/theme-options/404-settings.php:18
+#: includes/options/theme-options/general-settings.php:113
+msgid "404 Image"
+msgstr ""
+
+#: includes/options/theme-options/404-settings.php:24
+msgid "404 Background Image"
+msgstr ""
+
+#: includes/options/theme-options/404-settings.php:29
+msgid "404 Backgrounds"
+msgstr ""
+
+#: includes/options/theme-options/404-settings.php:31
+msgid "404 background with color, etc."
+msgstr ""
+
+#: includes/options/theme-options/404-settings.php:37
+msgid "404 Title Color"
+msgstr ""
+
+#: includes/options/theme-options/404-settings.php:44
+msgid "404 Description Color"
+msgstr ""
+
+#: includes/options/theme-options/404-settings.php:52
+msgid "404 Search Input Color"
+msgstr ""
+
+#: includes/options/theme-options/404-settings.php:59
+msgid "404 Search Border Color"
+msgstr ""
+
+#: includes/options/theme-options/404-settings.php:66
+msgid "404 Search Background Color"
+msgstr ""
+
+#: includes/options/theme-options/404-settings.php:73
+msgid "404 Search Btn  Color"
+msgstr ""
+
+#: includes/options/theme-options/404-settings.php:80
+msgid "404 Search Btn Background Color"
+msgstr ""
+
+#: includes/options/theme-options/404-settings.php:87
+msgid "404 Search Btn Border Color"
+msgstr ""
+
+#: includes/options/theme-options/404-settings.php:94
+msgid "404 Back to Home Button Color"
+msgstr ""
+
+#: includes/options/theme-options/404-settings.php:101
+msgid "404 Back to Home Background Color"
+msgstr ""
+
+#: includes/options/theme-options/404-settings.php:108
+msgid "404 Back to Home Border Color"
+msgstr ""
+
+#: includes/options/theme-options/blog-settings.php:8
+msgid "Blog Single Settings"
+msgstr ""
+
+#: includes/options/theme-options/blog-settings.php:18
+msgid "Category Enable / Disable"
+msgstr ""
+
+#: includes/options/theme-options/blog-settings.php:19
+msgid "This is used to enable and disable Category in blog single"
+msgstr ""
+
+#: includes/options/theme-options/blog-settings.php:25
+msgid "Tag Enable / Disable"
+msgstr ""
+
+#: includes/options/theme-options/blog-settings.php:26
+msgid "This is used to enable and disable Tags in blog single"
+msgstr ""
+
+#: includes/options/theme-options/blog-settings.php:33
+msgid "Share Enable / Disable "
+msgstr ""
+
+#: includes/options/theme-options/blog-settings.php:34
+#: includes/options/theme-options/blog-settings.php:42
+msgid "This is used to enable and disable Share in blog single"
+msgstr ""
+
+#: includes/options/theme-options/blog-settings.php:41
+msgid "Post Navigation Enable / Disable "
+msgstr ""
+
+#: includes/options/theme-options/breadcrumb-settings.php:9
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: includes/options/theme-options/breadcrumb-settings.php:20
+msgid "Product Breadcrumb Text"
+msgstr ""
+
+#: includes/options/theme-options/breadcrumb-settings.php:27
+#: includes/options/theme-options/mobile-menu-two.php:52
+#: includes/options/theme-options/mobile-menu-two.php:85
+#: includes/options/theme-options/mobile-menu-two.php:120
+#: includes/options/theme-options/mobile-menu-two.php:154
+#: includes/options/theme-options/mobile-menu-two.php:188
+#: includes/options/theme-options/mobile-menu.php:219
+#: includes/options/theme-options/mobile-menu.php:235
+#: includes/options/theme-options/mobile-menu.php:251
+#: includes/options/theme-options/mobile-menu.php:267
+#: includes/options/theme-options/mobile-menu.php:283
+#: includes/options/theme-options/side-menu-settings.php:88
+#: includes/options/theme-options/side-menu-settings.php:89
+#: includes/options/theme-options/side-menu-settings.php:125
+#: includes/options/theme-options/side-menu-settings.php:126
+#: includes/woocommerce/card.php:48 template-parts/blog-functions.php:120
+#: template-parts/blog-functions.php:129
+msgid "#"
+msgstr ""
+
+#: includes/options/theme-options/breadcrumb-settings.php:28
+msgid "Product Breadcrumb Link"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:8
+msgid "Theme  Settings"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:17
+msgid "Theme Background Image"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:23
+msgid "Theme Background Color"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:30
+msgid "Theme Color Settings Enable"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:36
+msgid "Theme Font Familys"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:43
+#: includes/options/theme-options/typography-settings.php:23
+msgid "Font Family Primary"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:64
+#: includes/options/theme-options/typography-settings.php:43
+msgid "Font Family Secondary"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:86
+msgid "Theme Primary Colors"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:94
+msgid "Theme Color (1)"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:101
+msgid "Theme Color (2)"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:108
+msgid "Theme Color (3)"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:117
+msgid "Theme Background Colors"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:125
+msgid "Theme Background Light Color (1)"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:126
+#: includes/options/theme-options/color-settings.php:134
+#: includes/options/theme-options/color-settings.php:142
+msgid "Only Light colors want to apply"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:133
+msgid "Theme Background Light Color (2)"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:141
+msgid "Theme Background Light Color (3) "
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:151
+msgid "Theme Heading Colors"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:158
+msgid "Heading Color"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:166
+msgid "Text Colors"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:173
+msgid "Text  Color"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:182
+msgid "Border Colors"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:190
+msgid "Border Color"
+msgstr ""
+
+#: includes/options/theme-options/color-settings.php:198
+msgid "Border Color (2)"
+msgstr ""
+
+#: includes/options/theme-options/dokan-settings.php:8
+msgid "Dokan Settings"
+msgstr ""
+
+#: includes/options/theme-options/dokan-settings.php:16
+msgid "Dokan Dashboard Logo"
+msgstr ""
+
+#: includes/options/theme-options/dokan-settings.php:27
+#: includes/options/theme-options/mobile-menu.php:82
+msgid "Logo Width"
+msgstr ""
+
+#: includes/options/theme-options/dokan-settings.php:29
+#: includes/options/theme-options/mobile-menu.php:84
+msgid "Allow your users to choose width"
+msgstr ""
+
+#: includes/options/theme-options/dokan-settings.php:30
+#: includes/options/theme-options/mobile-menu.php:85
+msgid "Enable or disable any piece of this field. Width, or Units."
+msgstr ""
+
+#: includes/options/theme-options/dokan-settings.php:39
+msgid "2023 ©  Nest ( Wordpress Ecommerce Wordpress Theme)."
+msgstr ""
+
+#: includes/options/theme-options/dokan-settings.php:40
+msgid "Copyrights Content Left"
+msgstr ""
+
+#: includes/options/theme-options/dokan-settings.php:45
+msgid "All rights reserved"
+msgstr ""
+
+#: includes/options/theme-options/dokan-settings.php:46
+msgid "Copyrights Content Right"
+msgstr ""
+
+#: includes/options/theme-options/dokan-settings.php:51
+msgid "Vendors List"
+msgstr ""
+
+#: includes/options/theme-options/dokan-settings.php:52
+msgid "Vendor List Page Title"
+msgstr ""
+
+#: includes/options/theme-options/footer-settings.php:8
+msgid "Footer Settings"
+msgstr ""
+
+#: includes/options/theme-options/footer-settings.php:16
+msgid "Footer Custom Enable / Disable"
+msgstr ""
+
+#: includes/options/theme-options/footer-settings.php:22
+msgid "Select Footer Style"
+msgstr ""
+
+#: includes/options/theme-options/general-settings.php:9
+msgid "General Settings"
+msgstr ""
+
+#: includes/options/theme-options/general-settings.php:17
+msgid "Notice Section"
+msgstr ""
+
+#: includes/options/theme-options/general-settings.php:23
+msgid "Admin Notice Enable  / Disable"
+msgstr ""
+
+#: includes/options/theme-options/general-settings.php:29
+msgid "Preloader / Backtotop Section"
+msgstr ""
+
+#: includes/options/theme-options/general-settings.php:36
+msgid "Preloader Enable  / Disable"
+msgstr ""
+
+#: includes/options/theme-options/general-settings.php:37
+msgid "Preloader"
+msgstr ""
+
+#: includes/options/theme-options/general-settings.php:48
+msgid "Preloader Image"
+msgstr ""
+
+#: includes/options/theme-options/general-settings.php:55
+msgid "Preloader Background"
+msgstr ""
+
+#: includes/options/theme-options/general-settings.php:56
+msgid "Preloader background color, etc."
+msgstr ""
+
+#: includes/options/theme-options/general-settings.php:66
+msgid "Back to top Enable /Disable"
+msgstr ""
+
+#: includes/options/theme-options/general-settings.php:74
+msgid "Sidebar Section"
+msgstr ""
+
+#: includes/options/theme-options/general-settings.php:82
+msgid "Sidebar Sticky Enable / Disable"
+msgstr ""
+
+#: includes/options/theme-options/general-settings.php:88
+msgid "RTL Section"
+msgstr ""
+
+#: includes/options/theme-options/general-settings.php:95
+msgid "Rtl Enable  / Disable"
+msgstr ""
+
+#: includes/options/theme-options/general-settings.php:96
+msgid "Rtl"
+msgstr ""
+
+#: includes/options/theme-options/general-settings.php:103
+msgid "404 Section"
+msgstr ""
+
+#: includes/options/theme-options/general-settings.php:118
+msgid "Remove Js / Css Section"
+msgstr ""
+
+#: includes/options/theme-options/general-settings.php:124
+msgid "Wow Js Enable and disable"
+msgstr ""
+
+#: includes/options/theme-options/general-settings.php:130
+msgid "Slect 2 Js Enable and disable"
+msgstr ""
+
+#: includes/options/theme-options/header-settings.php:8
+msgid "Header Settings"
+msgstr ""
+
+#: includes/options/theme-options/header-settings.php:17
+#: includes/options/theme-options/mobile-menu.php:16
+msgid "Header  Section"
+msgstr ""
+
+#: includes/options/theme-options/header-settings.php:23
+msgid "Header Custom Enable / Disable"
+msgstr ""
+
+#: includes/options/theme-options/header-settings.php:29
+msgid "Select Header Style"
+msgstr ""
+
+#: includes/options/theme-options/layout-settings.php:8
+msgid "Layout Settings"
+msgstr ""
+
+#: includes/options/theme-options/layout-settings.php:16
+msgid "Default Layouts"
+msgstr ""
+
+#: includes/options/theme-options/layout-settings.php:17
+#: includes/options/theme-options/layout-settings.php:41
+#: includes/options/theme-options/layout-settings.php:65
+#: includes/options/theme-options/layout-settings.php:88
+msgid "Choose your layouts Styles"
+msgstr ""
+
+#: includes/options/theme-options/layout-settings.php:21
+#: includes/options/theme-options/layout-settings.php:44
+#: includes/options/theme-options/layout-settings.php:69
+#: includes/options/theme-options/layout-settings.php:92
+msgid "Full Width"
+msgstr ""
+
+#: includes/options/theme-options/layout-settings.php:25
+#: includes/options/theme-options/layout-settings.php:48
+#: includes/options/theme-options/layout-settings.php:73
+#: includes/options/theme-options/layout-settings.php:96
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/options/theme-options/layout-settings.php:29
+#: includes/options/theme-options/layout-settings.php:52
+#: includes/options/theme-options/layout-settings.php:77
+#: includes/options/theme-options/layout-settings.php:100
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/options/theme-options/layout-settings.php:40
+msgid "Page Layouts"
+msgstr ""
+
+#: includes/options/theme-options/layout-settings.php:64
+msgid "Shop  Layouts"
+msgstr ""
+
+#: includes/options/theme-options/layout-settings.php:87
+msgid "Shop Single Layouts"
+msgstr ""
+
+#: includes/options/theme-options/layout-settings.php:112
+msgid "Layout Width Enable / Disable"
+msgstr ""
+
+#: includes/options/theme-options/layout-settings.php:118
+msgid "1200px"
+msgstr ""
+
+#: includes/options/theme-options/layout-settings.php:119
+msgid ""
+"This is for deafult  container width for reduce and increase width. Use Like "
+"this eg(1500px , 1170px)"
+msgstr ""
+
+#: includes/options/theme-options/layout-settings.php:120
+msgid "Layout Width"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:8
+msgid "Mobile Fixed Menu Settings"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:17
+msgid "Mobile Floating menu  Enable"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:19
+msgid "Enable this before using btns below"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:24
+msgid "Home  Enable"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:32
+msgid "Home Button Image"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:43
+msgid "Home Button Text"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:50
+msgid "Home Button Link"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:58
+msgid "Button One Enable"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:66
+msgid "Button One Image"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:75
+msgid "Button One Text"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:77
+msgid "Whishlist"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:83
+msgid "Button One Link"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:93
+msgid "Button Two Enable"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:101
+msgid "Button Two Image"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:110
+msgid "Button Two Text"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:112
+#: includes/woocommerce/action.php:599
+msgid "Compare"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:118
+msgid "Button Two Link"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:127
+msgid "Button Three Enable"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:135
+msgid "Button Three Image"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:144
+msgid "Button Three Text"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:146
+msgid "Checkout"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:152
+msgid "Button Three Link"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:161
+msgid "Button Four Enable"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:169
+msgid "Button Four Image"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:178
+msgid "Button Four Text"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:180
+msgid "Account"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu-two.php:186
+msgid "Button Four Link"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:8
+msgid "Mobile Header Settings"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:23
+msgid "Disable Default Mobile Menu / Enable Desktop Menu For Mobile"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:30
+msgid "Notice  Enable"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:38
+msgid "Notice Background Image"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:48
+msgid "Contact Title"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:50
+msgid "Senior’s Member Discount Days! Save 25% Each Tuesday"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:56
+msgid "Mobile Logo  Enable"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:64
+msgid "Mobile Header Logo"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:73
+msgid "Logo LInk"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:74
+#: includes/options/theme-options/mobile-menu.php:184
+#: includes/options/theme-options/mobile-menu.php:198
+msgid "https://example.com"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:100
+msgid "Cart Enable"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:108
+#: includes/options/theme-options/mobile-menu.php:133
+msgid "Search  Enable"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:115
+msgid "Search Type"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:117
+msgid "Default Search"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:118
+msgid "Fibo Search"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:127
+msgid "Header Menu Panel  Section"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:142
+msgid "Contact  Enable"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:150
+msgid "Phone Number"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:152
+msgid "9806071234"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:160
+msgid "Mail Id"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:162
+msgid "sendmail@example.com"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:170
+msgid "Button Enable"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:176
+msgid "Button Text One"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:178
+msgid "Contact"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:183
+msgid "Button Link One"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:190
+msgid "Button Text Two"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:192
+msgid "My Account"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:197
+msgid "Button Link Two"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:204
+msgid "Share Enable (Social Media)"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:210
+msgid "Social Media Icon Text One"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:211
+#: includes/options/theme-options/mobile-menu.php:212
+msgid "fab fa-facebook"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:218
+msgid "Social Media Icon Link One"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:226
+msgid "Social Media Icon Text Two"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:227
+#: includes/options/theme-options/mobile-menu.php:228
+msgid "fab fa-twitter"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:234
+msgid "Social Media Icon Link Two"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:242
+msgid "Social Media Icon Text Three"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:243
+#: includes/options/theme-options/mobile-menu.php:244
+msgid "fab fa-skype"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:250
+msgid "Social Media Icon Link Three"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:258
+msgid "Social Media Icon Text Four"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:259
+#: includes/options/theme-options/mobile-menu.php:260
+msgid "fab fa-youtube"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:266
+msgid "Social Media Icon Link Four"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:274
+msgid "Social Media Icon Text Five"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:275
+#: includes/options/theme-options/mobile-menu.php:276
+msgid "fab fa-instagram"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:282
+msgid "Social Media Icon Link Five"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:291
+msgid "Copy Right Enale"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:298
+msgid "Copy Right"
+msgstr ""
+
+#: includes/options/theme-options/mobile-menu.php:299
+#: includes/options/theme-options/mobile-menu.php:300
+msgid "Copyright 2023 © Nest. All rights reserved. Powered by Steelthemes."
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:8
+msgid "Page Header Settings"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:17
+msgid "Page Header  Section"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:23
+msgid "Page Header Enable / Disable"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:29
+msgid "Page Header Styles"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:32
+msgid "Page Header Style One"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:33
+msgid "Page Header Style Two"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:34
+msgid "Page Header Style Three (Only Breadcrumb)"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:42
+msgid "Post Category Exclude for Page Header"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:43
+msgid "Category Exclude eg( 1 ,2, 45) like this"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:51
+msgid "Breadcrumb Enable / Disable"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:58
+msgid "Page Header style"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:66
+msgid "Page Header Alignment"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:68
+msgid "Left"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:69
+#: includes/options/theme-options/woocommerce-settings.php:86
+msgid "Center"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:70
+msgid "Right"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:79
+msgid "Page header Background Image"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:86
+msgid "Blog Page header Background Image"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:92
+msgid "Page Header Background Color"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:98
+msgid "Page Header Padding"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:99
+msgid "Enter Padding like this (100px 0px 100px 0px)"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:105
+msgid "Page Header Title Color"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:111
+msgid "Page Header Breadcrumb Color"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:117
+msgid "Page Header Breadcrumb Active Color"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:124
+msgid "Page Header Tag  Color"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:125
+msgid "This custom Color css for Tag"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:131
+msgid "Page Header Tag Background Color"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:132
+msgid "This custom Background color css for Tag"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:139
+msgid "Page Header Tag Border Color"
+msgstr ""
+
+#: includes/options/theme-options/page_header_settings.php:140
+msgid "This custom Border color css for Tag"
+msgstr ""
+
+#: includes/options/theme-options/side-menu-settings.php:8
+msgid "Side Menu Settings"
+msgstr ""
+
+#: includes/options/theme-options/side-menu-settings.php:16
+msgid "Side Menu  Enable"
+msgstr ""
+
+#: includes/options/theme-options/side-menu-settings.php:24
+msgid "Side Menu Icon Image "
+msgstr ""
+
+#: includes/options/theme-options/side-menu-settings.php:34
+msgid "Side Menu  Text"
+msgstr ""
+
+#: includes/options/theme-options/side-menu-settings.php:35
+#: includes/options/theme-options/side-menu-settings.php:36
+msgid "Demos"
+msgstr ""
+
+#: includes/options/theme-options/side-menu-settings.php:43
+msgid "Select Mega Menu Style For display in Side Menu"
+msgstr ""
+
+#: includes/options/theme-options/side-menu-settings.php:52
+msgid "Minu Cart Button Text"
+msgstr ""
+
+#: includes/options/theme-options/side-menu-settings.php:53
+#: includes/options/theme-options/side-menu-settings.php:54
+msgid "Cart"
+msgstr ""
+
+#: includes/options/theme-options/side-menu-settings.php:61
+msgid "Content One Enable / Disable"
+msgstr ""
+
+#: includes/options/theme-options/side-menu-settings.php:68
+msgid "Content One Icon Image "
+msgstr ""
+
+#: includes/options/theme-options/side-menu-settings.php:78
+msgid "Content One Menu  Text"
+msgstr ""
+
+#: includes/options/theme-options/side-menu-settings.php:79
+#: includes/options/theme-options/side-menu-settings.php:80
+msgid "Docs"
+msgstr ""
+
+#: includes/options/theme-options/side-menu-settings.php:87
+msgid "Content One Menu  Link"
+msgstr ""
+
+#: includes/options/theme-options/side-menu-settings.php:98
+msgid "Content Two Enable / Disable"
+msgstr ""
+
+#: includes/options/theme-options/side-menu-settings.php:105
+msgid "Content Two Icon Image "
+msgstr ""
+
+#: includes/options/theme-options/side-menu-settings.php:115
+msgid "Content Two Menu  Text"
+msgstr ""
+
+#: includes/options/theme-options/side-menu-settings.php:124
+msgid "Content Two Menu  Link"
+msgstr ""
+
+#: includes/options/theme-options/sticky-header.php:8
+msgid "Sticky header Settings"
+msgstr ""
+
+#: includes/options/theme-options/sticky-header.php:17
+msgid "Header Sticky Enable / Disable"
+msgstr ""
+
+#: includes/options/theme-options/sticky-header.php:23
+msgid "Select Sticky Header Style"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:9
+msgid "Typography Settings"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:17
+msgid "Default Font Family Enable"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:18
+msgid "Enable to fontfamily to change font family"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:63
+msgid "Enable H1 Custom Font (Desktop)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:64
+msgid "Enable to customize the theme heading h1 tag font (Desktop)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:69
+msgid "H1 Font Typography (Desktop)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:76
+msgid "Apply options to customize the h1 heading font for the theme (Desktop)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:88
+msgid "Enable H1 Custom Font (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:89
+msgid "Enable to customize the theme heading h1 tag font (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:94
+msgid "H1 Font Typography (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:105
+msgid "Apply options to customize the h1 heading font for the theme (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:117
+msgid "Enable H2 Custom Font (Desktop)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:118
+msgid "Enable to customize the theme heading h2 tag font (Desktop)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:124
+msgid "H2 Font Typography (Desktop)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:131
+msgid "Apply options to customize the h2 heading font for the theme (Desktop)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:146
+msgid "Enable H2 Custom Font (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:147
+msgid "Enable to customize the theme heading h2 tag font (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:152
+msgid "H2 Font Typography (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:162
+msgid "Apply options to customize the h2 heading font for the theme (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:174
+msgid "Enable H3 Custom Font (Desktop)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:175
+msgid "Enable to customize the theme heading h3 tag font (Desktop)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:180
+msgid "H3 Font Typography (Desktop)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:188
+msgid "Apply options to customize the h3 heading  for the theme (Desktop)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:200
+msgid "Enable H3 Custom Font (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:201
+msgid "Enable to customize the theme heading h3 tag font (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:207
+msgid "H3 Font Typography (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:218
+msgid "Apply options to customize the h3 heading font for the theme (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:230
+msgid "Enable H4 Custom Font (Desktop)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:231
+msgid "Enable to customize the theme heading h4 tag font"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:236
+msgid "H4 Font Typography"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:244
+msgid "Apply options to customize the h4 heading font for the theme"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:256
+msgid "Enable H4 Custom Font (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:257
+msgid "Enable to customize the theme heading h4 tag font (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:262
+msgid "H4 Font Typography (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:273
+msgid "Apply options to customize the h4 heading font for the theme (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:285
+msgid "Enable H5 Custom Font (Desktop)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:286
+msgid "Enable to customize the theme heading h5 tag font"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:291
+msgid "H5 Font Typography"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:299
+msgid "Apply options to customize the h5 heading font for the theme"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:311
+msgid "Enable H5 Custom Font (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:312
+msgid "Enable to customize the theme heading h5 tag font (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:318
+msgid "H5 Font Typography (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:329
+msgid "Apply options to customize the h5 heading font for the theme (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:341
+msgid "Enable H6 Custom Font (Desktop)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:342
+msgid "Enable to customize the theme heading h6 tag font"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:347
+msgid "H6 Font Typography"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:355
+msgid "Apply options to customize the h6 heading font for the theme"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:368
+msgid "Enable H6 Custom Font (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:369
+msgid "Enable to customize the theme heading h6 tag font (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:375
+msgid "H6 Font Typography (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:386
+msgid "Apply options to customize the h6 heading font for the theme (Mobile)"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:397
+msgid "Use Body,Paragraph Custom Font"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:398
+msgid "Enable to customize the theme body,p tag font"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:403
+msgid "Body Font Typography"
+msgstr ""
+
+#: includes/options/theme-options/typography-settings.php:411
+msgid "Apply options to customize the body,paragraph font for the theme"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:8
+msgid "Product Card Settings"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:18
+msgid "Woocommerce Product Card  Settings"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:24
+msgid "Product Image Resize Enable / Disable"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:30
+msgid "Product Card Image size ( Desktop )"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:31
+#: includes/options/theme-options/woocommerce-product-settings.php:39
+msgid "150px"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:32
+#: includes/options/theme-options/woocommerce-product-settings.php:40
+msgid "Enter the image size like this 100px or 120px or 150px"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:38
+msgid "Product Card Image size ( Mobile )"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:46
+msgid "Product Title Resize Enable / Disable"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:52
+msgid "Title Text Overflow Size"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:53
+msgid "2"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:54
+msgid "Enter the numbers like this 2 or 3 or 4"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:60
+msgid "Title Height"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:61
+msgid "50px"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:62
+msgid "Enter the numbers like this 30px or 40px 0r 50px"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:68
+msgid "Rating Enable / Disable"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:74
+msgid "Category Enable  / Disable"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:80
+msgid "Brand Enable View Enable  / Disable"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:86
+msgid "Brand Type"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:88
+msgid "Show Title"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:89
+msgid "Show Brand image"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:96
+msgid "Quick View , Compare and  Wishlish Enable  / Disable "
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:103
+msgid "Add to cart Enable  / Disable "
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:110
+msgid "Short Description Enable  / Disable "
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:117
+msgid "Sold Items Progress Bar Enable  / Disable "
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:124
+msgid "Sold Type"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:126
+msgid "Default based on avilable products and sold products"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:127
+msgid "By using meta option Manually"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:135
+msgid "Badge Enable  / Disable "
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-product-settings.php:141
+msgid "Vendor Store Name Enable  / Disable "
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:8
+msgid "Woocommerce Settings"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:17
+msgid "Woocommerce Archive  Settings"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:24
+msgid "Archive Product Style"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:26
+#: includes/options/theme-options/woocommerce-settings.php:102
+msgid "Style One (Default)"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:27
+#: includes/options/theme-options/woocommerce-settings.php:103
+msgid "Style Two"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:28
+#: includes/options/theme-options/woocommerce-settings.php:104
+msgid "Style Three "
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:29
+#: includes/options/theme-options/woocommerce-settings.php:105
+msgid "Style Four "
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:30
+msgid "Style Five "
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:38
+msgid "Filter Button Enable  / Disable In Shop Page"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:44
+msgid "Grid / List View Enable  / Disable In Shop Page"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:51
+msgid "Select Products Per Page View Enable  / Disable In Shop Page"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:57
+msgid "Select Filter Enable  / Disable In Shop Page"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:63
+msgid "Active Filter Enable  / Disable In Shop Page"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:69
+msgid "Recently Viewed Products Enable  / Disable In Shop Page"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:75
+msgid "Recently Viewd Products Title"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:76
+msgid "Recently Viewd Products"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:83
+msgid "Fliter Alignment"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:85
+msgid "Start"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:87
+msgid "End"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:94
+msgid "Woocommerce Single  Settings"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:100
+msgid "Product Single Style"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:112
+msgid "Stick Add to cart Enable / Disable In Shop Single"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:119
+msgid "Pagination , Load More or Infinite Product Scroll"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:122
+msgid "Woocommerce Product Pagination"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:123
+msgid "Woocommerce Product Loadmore"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:124
+msgid "Woocommerce Product Infinite Scroll"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:132
+#: template-parts/related-posts.php:38
+msgid "Related Posts"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:138
+msgid "Related Post Count"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:139
+msgid "3"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:145
+msgid "Deals Text Changing"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:153
+#: includes/options/theme-options/woocommerce-settings.php:154
+msgid "Days"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:159
+#: includes/options/theme-options/woocommerce-settings.php:160
+msgid "Hours"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:165
+msgid "Minutes"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:166
+msgid "Mins"
+msgstr ""
+
+#: includes/options/theme-options/woocommerce-settings.php:171
+#: includes/options/theme-options/woocommerce-settings.php:172
+msgid "Secs"
+msgstr ""
+
+#: includes/woocommerce/action.php:182
+msgid ":"
+msgstr ""
+
+#: includes/woocommerce/action.php:200 includes/woocommerce/action.php:266
+#: includes/woocommerce/action.php:274 includes/woocommerce/action.php:284
+msgid "Out of Stock"
+msgstr ""
+
+#: includes/woocommerce/action.php:287
+msgid "In Stock"
+msgstr ""
+
+#: includes/woocommerce/action.php:290
+msgid "On Backorder"
+msgstr ""
+
+#: includes/woocommerce/action.php:322 includes/woocommerce/action.php:342
+#: includes/woocommerce/action.php:367
+msgid "Sold"
+msgstr ""
+
+#: includes/woocommerce/action.php:323 includes/woocommerce/action.php:343
+#: includes/woocommerce/action.php:368
+msgid "/"
+msgstr ""
+
+#: includes/woocommerce/action.php:408
+#: template-parts/headers/mobile-header.php:55
+msgid "0"
+msgstr ""
+
+#: includes/woocommerce/action.php:487
+msgid "wp-post-image"
+msgstr ""
+
+#: includes/woocommerce/action.php:593
+msgid "Quick view"
+msgstr ""
+
+#: includes/woocommerce/action.php:607
+msgid "Wishlist"
+msgstr ""
+
+#: includes/woocommerce/action.php:650
+msgid "Sale quantity"
+msgstr ""
+
+#: includes/woocommerce/action.php:659
+msgid "Sold Total Items"
+msgstr ""
+
+#: includes/woocommerce/action.php:668
+msgid "Sold Total Type (Kg , g , li , Ml)"
+msgstr ""
+
+#: includes/woocommerce/action.php:707
+#: includes/woocommerce/quick-view-template.php:45
+msgid "Type:"
+msgstr ""
+
+#: includes/woocommerce/action.php:711
+#: includes/woocommerce/quick-view-template.php:49
+msgid "MFG:"
+msgstr ""
+
+#: includes/woocommerce/action.php:715
+#: includes/woocommerce/quick-view-template.php:53
+msgid "LIFE:"
+msgstr ""
+
+#: includes/woocommerce/action.php:777
+msgid "advertisement"
+msgstr ""
+
+#: includes/woocommerce/action.php:853 includes/woocommerce/action.php:1106
+msgid "Filter"
+msgstr ""
+
+#: includes/woocommerce/action.php:890 includes/woocommerce/view.php:10
+msgid "Show:"
+msgstr ""
+
+#: includes/woocommerce/action.php:1015
+msgid "Load More"
+msgstr ""
+
+#: includes/woocommerce/action.php:1034
+msgid "No more Products to load"
+msgstr ""
+
+#: includes/woocommerce/action.php:1071
+msgid "All Categories"
+msgstr ""
+
+#: includes/woocommerce/action.php:1079
+msgid "All Brands"
+msgstr ""
+
+#: includes/woocommerce/action.php:1092
+msgid "All"
+msgstr ""
+
+#: includes/woocommerce/action.php:1107
+msgid "Reset Filters"
+msgstr ""
+
+#: includes/woocommerce/action.php:1173
+msgid "Add to Cart"
+msgstr ""
+
+#: includes/woocommerce/action.php:1190
+msgid "Add"
+msgstr ""
+
+#: includes/woocommerce/card.php:17
+msgid "out of 5"
+msgstr ""
+
+#: includes/woocommerce/card.php:47
+msgid "By"
+msgstr ""
+
+#: includes/woocommerce/card.php:405 includes/woocommerce/card.php:451
+#: includes/woocommerce/card.php:497
+#: woocommerce/single-product-styles/product-style-three.php:52
+#: woocommerce/single-product-styles/product-style-two.php:56
+msgid "Awaiting product image"
+msgstr ""
+
+#: includes/woocommerce/quick-view-template.php:70
+msgid "Description"
+msgstr ""
+
+#: includes/woocommerce/quick-view-template.php:75
+msgid "Additional information"
+msgstr ""
+
+#: template-parts/blog-functions.php:23
+msgid "Post a Comment"
+msgstr ""
+
+#: template-parts/blog-functions.php:67
+msgid "Share This : "
+msgstr ""
+
+#: template-parts/blog-functions.php:117
+msgid "Tags"
+msgstr ""
+
+#: template-parts/blog-functions.php:126
+msgid "Posted in"
+msgstr ""
+
+#: template-parts/blog-functions.php:148
+msgid "Less than a minute ago"
+msgstr ""
+
+#: template-parts/blog-functions.php:150
+msgid "About a minute ago"
+msgstr ""
+
+#: template-parts/blog-functions.php:154
+msgid "About an hour ago"
+msgstr ""
+
+#: template-parts/content-blog.php:15
+msgid "https://youtu.be/FHXTWNpZxq4"
+msgstr ""
+
+#: template-parts/content-blog.php:53
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:10
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Get started here"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:19
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:15
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/footer/default-footer.php:23
+msgid "© 2023 Steelthemes. All Right Reseved"
+msgstr ""
+
+#: template-parts/headers/mobile-menu.php:26
+msgid "Sign Out"
+msgstr ""
+
+#: template-parts/headers/mobile-menu.php:44
+msgid "Menu"
+msgstr ""
+
+#: template-parts/headers/mobile-menu.php:51
+msgid "Category"
+msgstr ""
+
+#: template-parts/related-posts.php:43
+msgid "related_posts_swiper_two"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:60
+#, php-format
+msgid "Remove %s from cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:97
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:50
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:24
+#: woocommerce/checkout/review-order.php:61
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:24
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:24
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:45
+msgid "Product quantity"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:30
+msgid "button"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:35
+#, php-format
+msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Log out</a>)"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:45
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">billing address</a>, and <a "
+"href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:48
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a>, "
+"and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:32
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:39
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:43
+#: woocommerce/myaccount/form-login.php:93
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:51
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:54
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:57
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:70
+#: woocommerce/myaccount/form-login.php:107
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:79
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:99
+msgid "A link to set a new password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/notices/success.php:34
+msgid "View Checkout"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:33
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:34
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:38
+msgid "Category:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:40
+msgid "Tag:"
+msgstr ""
